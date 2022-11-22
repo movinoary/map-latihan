@@ -1,0 +1,1127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "aptechv2a_a5",
+        "nama_alat": "bojongmurni",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:05:41",
+        "Rain": "0.000",
+        "WLevel": 81,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Cisadane",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.89429", "-6.69786"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "kampungkalapa",
+        "nama_alat": "kp.kalapa",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:05:02",
+        "Rain": "0.000",
+        "WLevel": 21,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "100.000",
+        "siaga3": "300.000",
+        "siaga2": "350.000",
+        "siaga1": "400.000",
+        "status": "normal",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.814", "-6.45527"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "gunungmas",
+        "nama_alat": "gunung mas ",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:05:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.96738", "-6.70908"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "pchgadog",
+        "nama_alat": "gadog",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:04:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "FEWS",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.86918", "-6.65343"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "pchcicau",
+        "nama_alat": "cicau",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:04:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "25.000",
+        "siaga3": "40.000",
+        "siaga2": "50.000",
+        "siaga1": "70.000",
+        "status": "cerah",
+        "sungai": "DAS Bekasi",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["107.15974", "-6.37644"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "sukawangi",
+        "nama_alat": "Sukawangi",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:04:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS bekasi",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.76299", "-6.3015"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "sumurbatu",
+        "nama_alat": "sumurbatu",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:03:00",
+        "Rain": "0.000",
+        "WLevel": 819,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Bekasi",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.88295", "-6.57469"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "pchtenjo",
+        "nama_alat": "Tenjo",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:03:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Cimanceri",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.76299", "-6.3015"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "pasirjaya",
+        "nama_alat": "pasirjaya",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:02:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Cisadane",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.79674", "-6.72841"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "klcimanggu",
+        "nama_alat": "klimat.cimanggu",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:02:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Cisadane",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.78777", "-6.57546"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "situlengkong",
+        "nama_alat": "lengkong.barang",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:01:08",
+        "Rain": "0.000",
+        "WLevel": 41,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Angke",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.72626", "-6.46463"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "aptechv4_aws1",
+        "nama_alat": "gintung",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:01:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Angke",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.76299", "-6.3015"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "aptechv2_z1",
+        "nama_alat": "cilember",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:01:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.91492", "-6.65287"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "rancabungur",
+        "nama_alat": "ranca bungur",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:02:33",
+        "Rain": "0.000",
+        "WLevel": 40,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Cisadane",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.69194", "-6.51442"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "cawang",
+        "nama_alat": "cawang",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:00:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Sunter",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.880226", "-6.241320"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "situparigi",
+        "nama_alat": "situparigi",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:00:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "FEWS",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Angke",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.69675", "-6.28157"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "aptechv2_04",
+        "nama_alat": "jeruk purut",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:00:00",
+        "Rain": "0.000",
+        "WLevel": 92,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Krukut",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.81493", "-6.27926"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "ciketing",
+        "nama_alat": "ciketing",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:00:00",
+        "Rain": "0.000",
+        "WLevel": 1164,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Bekasi",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "1164",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["1.000000000000000000", "-1.00000000000000000"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "awssukamahi",
+        "nama_alat": "AWS Sukamahi",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:00:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "Sungai cisukabirus - das ciliwung",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.76299", "-6.3015"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "bdgciawi",
+        "nama_alat": "AWS CIAWI",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:00:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.76299", "-6.3015"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "cigudeg",
+        "nama_alat": "cigudeg",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "09:37:39",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Cisadane",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.53308", "-6.54759"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "bedahan",
+        "nama_alat": "bedahan ",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "09:26:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Angke",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.7676349", "-6.4091945"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "lewaikaret",
+        "nama_alat": "leuwi karet",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "07:32:00",
+        "Rain": "0.000",
+        "WLevel": 1164,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Bekasi",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "1164",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["1.000000000000000000", "-1.00000000000000000"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "cengkarengdrn",
+        "nama_alat": "cengkareng drain",
+        "ReceivedDate": "2022-11-05",
+        "ReceivedTime": "00:45:00",
+        "Rain": "0.000",
+        "WLevel": 235,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "100.000",
+        "siaga3": "150.000",
+        "siaga2": "200.000",
+        "siaga1": "300.000",
+        "status": "Offline",
+        "sungai": "DAS Angke",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.74793", "-6.15365"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "cengkarengdrn",
+        "nama_alat": "cengkareng drain",
+        "ReceivedDate": "2022-11-05",
+        "ReceivedTime": "00:45:00",
+        "Rain": "0.000",
+        "WLevel": 235,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "100.000",
+        "siaga3": "150.000",
+        "siaga2": "200.000",
+        "siaga1": "300.000",
+        "status": "Offline",
+        "sungai": "DAS Angke",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.74793", "-6.15365"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "aptechv2_z2",
+        "nama_alat": "plta kracak",
+        "ReceivedDate": "2022-10-19",
+        "ReceivedTime": "10:54:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "Offline",
+        "sungai": "DAS Cisadane",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.64407", "-6.61683"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "aplus_kampusui",
+        "nama_alat": "kampusui",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:05:36",
+        "Rain": "0.000",
+        "WLevel": -96.2,
+        "id_tipe": "PCH",
+        "id_merk": "FEWS",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.82375", "-6.36121"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "chpamulang",
+        "nama_alat": "villa.pamulang",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:03:00",
+        "Rain": "0.000",
+        "WLevel": 45,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Angke",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.72299", "-6.34299"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "bdgkatulampa",
+        "nama_alat": "katulampa(m)",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:01:00",
+        "Rain": "0.000",
+        "WLevel": 38,
+        "id_tipe": "PDA",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "80.000",
+        "siaga2": "150.000",
+        "siaga1": "200.000",
+        "status": "cerah",
+        "sungai": "Sungai Ciliwung",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.83852", "-6.63373"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "bdgkatulampa",
+        "nama_alat": "katulampa",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:01:00",
+        "Rain": "0.000",
+        "WLevel": 38,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.83852", "-6.63373"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "chcibinong",
+        "nama_alat": "cibinong",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "09:49:06",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.85636", "-6.46048"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "aptechV2_A5",
+        "nama_alat": "jati jajar",
+        "ReceivedDate": "0000-00-00",
+        "ReceivedTime": "00:00:00",
+        "Rain": "0.000",
+        "WLevel": 0,
+        "id_tipe": "PCH",
+        "id_merk": "ICU",
+        "debit": "0.00",
+        "siaga4": "1.000",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Sunter",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.86984", "-6.40947"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "chmanggarai",
+        "nama_alat": "manggarai",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:02:00",
+        "Rain": "0.000",
+        "WLevel": 703,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": "0.00",
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "normal",
+        "sungai": "DAS Ciliwung",
+        "nilai_a": "0.0000",
+        "nilai_b": "0.0000",
+        "nilai_c": "0.0000",
+        "kalibrasi": "0",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["106.84849", "-6.20763"],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_lokasi": "bdgpasarbaru",
+        "nama_alat": "Bdg Pasar Baru",
+        "ReceivedDate": "2022-11-11",
+        "ReceivedTime": "10:01:00",
+        "Rain": "0.000",
+        "WLevel": 1171,
+        "id_tipe": "PCH",
+        "id_merk": "APTECH",
+        "debit": null,
+        "siaga4": "0.100",
+        "siaga3": "5.000",
+        "siaga2": "10.000",
+        "siaga1": "20.000",
+        "status": "cerah",
+        "sungai": "DAS Cisadane",
+        "nilai_a": null,
+        "nilai_b": null,
+        "nilai_c": null,
+        "kalibrasi": "-4",
+        "compare": {
+          "value": "-",
+          "last": 0,
+          "new": 0
+        }
+      },
+      "geometry": {
+        "coordinates": ["1.000000000000000000", "-1.00000000000000000"],
+        "type": "Point"
+      }
+    }
+  ]
+}

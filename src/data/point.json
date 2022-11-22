@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "swasta",
+        "temen": 100
+      },
+      "geometry": {
+        "coordinates": [106.88054703622436, -6.1941838126438995],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "swasta",
+        "temen": 150
+      },
+      "geometry": {
+        "coordinates": [106.86203108936701, -6.306976801168545],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "negeri",
+        "temen": 200
+      },
+      "geometry": {
+        "coordinates": [106.85870539159856, -6.297773869147676],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "swasta",
+        "temen": 180
+      },
+      "geometry": {
+        "coordinates": [106.88253155041843, -6.337450502726924],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "status": "negeri",
+        "temen": 250
+      },
+      "geometry": {
+        "coordinates": [106.82541188824672, -6.3623164539844055],
+        "type": "Point"
+      }
+    }
+  ]
+}

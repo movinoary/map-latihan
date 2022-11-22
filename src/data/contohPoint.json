@@ -1,0 +1,702 @@
+{
+  "geo_layer": {
+    "geojson": {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [106.88054703622436, -6.1941838126438995],
+            "type": "Point"
+          },
+          "formStatus": {
+            "status": "pending",
+            "message": ""
+          },
+          "key": "f8d9b557-6304-4a1f-8763-31efbd784655",
+          "type": "Feature",
+          "properties": {
+            "icon_image": "museum",
+            "text_field": "icon_image",
+            "circle_color": "#b0e062",
+            "circle_radius": 5,
+            "circle_stroke_width": 1,
+            "circle_stroke_color": "#ffffff",
+            "status": "swasta",
+            "temen": 100
+          },
+          "date_in": "2022-10-07T03:43:49.872Z",
+          "_id": "635f4e78c422ce68cf517018"
+        },
+        {
+          "geometry": {
+            "coordinates": [106.86203108936701, -6.306976801168545],
+            "type": "Point"
+          },
+          "formStatus": {
+            "status": "pending",
+            "message": ""
+          },
+          "key": "b1e99e58-121a-490b-9063-5980ce423464",
+          "type": "Feature",
+          "properties": {
+            "icon_image": "museum",
+            "text_field": "icon_image",
+            "circle_color": "#29819b",
+            "circle_radius": 5,
+            "circle_stroke_width": 1,
+            "circle_stroke_color": "#ffffff",
+            "status": "swasta",
+            "temen": 150
+          },
+          "date_in": "2022-10-07T03:43:49.872Z",
+          "_id": "635f4e78c422ce68cf517019"
+        },
+        {
+          "geometry": {
+            "coordinates": [106.85870539159856, -6.297773869147676],
+            "type": "Point"
+          },
+          "formStatus": {
+            "status": "pending",
+            "message": ""
+          },
+          "key": "b142134b-35b7-4dfa-8c4b-6e5f0cf4febc",
+          "type": "Feature",
+          "properties": {
+            "icon_image": "museum",
+            "text_field": "icon_image",
+            "circle_color": "#f427c8",
+            "circle_radius": 5,
+            "circle_stroke_width": 1,
+            "circle_stroke_color": "#ffffff",
+            "status": "negeri",
+            "temen": 200
+          },
+          "date_in": "2022-10-07T03:43:49.872Z",
+          "_id": "635f4e78c422ce68cf51701a"
+        },
+        {
+          "geometry": {
+            "coordinates": [106.88253155041843, -6.337450502726924],
+            "type": "Point"
+          },
+          "formStatus": {
+            "status": "pending",
+            "message": ""
+          },
+          "key": "3c76cc5f-ef62-494e-8098-6147cb4aed5d",
+          "type": "Feature",
+          "properties": {
+            "icon_image": "museum",
+            "text_field": "icon_image",
+            "circle_color": "#ed8f6a",
+            "circle_radius": 5,
+            "circle_stroke_width": 1,
+            "circle_stroke_color": "#ffffff",
+            "status": "swasta",
+            "temen": 180
+          },
+          "date_in": "2022-10-07T03:43:49.872Z",
+          "_id": "635f4e78c422ce68cf51701b"
+        },
+        {
+          "geometry": {
+            "coordinates": [106.82541188824672, -6.3623164539844055],
+            "type": "Point"
+          },
+          "formStatus": {
+            "status": "pending",
+            "message": ""
+          },
+          "key": "7612756e-0c9d-408a-af96-69b87d01dcdd",
+          "type": "Feature",
+          "properties": {
+            "icon_image": "museum",
+            "text_field": "icon_image",
+            "circle_color": "#9b87f2",
+            "circle_radius": 5,
+            "circle_stroke_width": 1,
+            "circle_stroke_color": "#ffffff",
+            "status": "negeri",
+            "temen": 250
+          },
+          "date_in": "2022-10-07T03:43:49.872Z",
+          "_id": "635f4e78c422ce68cf51701c"
+        }
+      ],
+      "type": "FeatureCollection"
+    },
+    "formStatus": {
+      "status": "not_propose"
+    },
+    "formPayment": {
+      "provinces": [],
+      "cities": [],
+      "surveyors": []
+    },
+    "tracking": {
+      "qrcode": "3L9WA4422",
+      "qrcodes": [],
+      "status": "off"
+    },
+    "_id": "635f4e78c422ce68cf516fe7",
+    "date": "2022-10-31T04:26:32.714Z",
+    "date_created": "2022-10-31T04:26:32.714Z",
+    "name": "point",
+    "description": "point",
+    "picture_url": "",
+    "type": "Point",
+    "user": {
+      "profile_picture": {
+        "url": "https://mapidstorage.s3.ap-southeast-1.amazonaws.com/general_image/vino/1666691076932_pp_big_1666691076_0bffd1c9-4f84-44a2-b453-3de354e42b95.jpeg",
+        "name": "pp_big_1666691076_0bffd1c9-4f84-44a2-b453-3de354e42b95",
+        "url_compressed": "https://mapidstorage.s3.ap-southeast-1.amazonaws.com/general_image/vino/1666691077284_pp_small_1666691076_db9a4360-c12e-474c-9220-2658cbc788cf.jpeg",
+        "name_compressed": "pp_small_1666691076_db9a4360-c12e-474c-9220-2658cbc788cf"
+      },
+      "_id": "630c2513269bc0af2a6919b5",
+      "name": "vino",
+      "full_name": "mohammad vino arystio nandafzuan",
+      "badge": "http://localhost:3000"
+    },
+    "isExpand": true,
+    "geo_project": {
+      "_id": "630c284e269bc0af2a691aaf",
+      "migration_status": "migrated",
+      "date": "2022-10-31T04:25:14.391Z",
+      "date_created": "2022-08-29T02:45:34.424Z",
+      "name": "test",
+      "description": "desc",
+      "folders": [],
+      "user": "630c2513269bc0af2a6919b5",
+      "groups": [],
+      "isPublic": false,
+      "is_load_first": false,
+      "domain_list": [
+        {
+          "domain": "localhost",
+          "_id": "630c284e269bc0af2a691ab0"
+        }
+      ],
+      "layers": [
+        {
+          "geo_layer": "635f4e63c422ce68cf516f65",
+          "folder": "",
+          "status": "upload",
+          "_id": "635f4e63c422ce68cf516f7d"
+        },
+        {
+          "geo_layer": "635f4e6fc422ce68cf516fa6",
+          "folder": "",
+          "status": "upload",
+          "_id": "635f4e6fc422ce68cf516fbc"
+        },
+        {
+          "geo_layer": "635f4e78c422ce68cf516fe7",
+          "folder": "",
+          "status": "upload",
+          "_id": "635f4e78c422ce68cf517001"
+        }
+      ],
+      "__v": 0,
+      "link": "630c284e269bc0af2a691aaf"
+    },
+    "isPublic": false,
+    "isFormPublic": false,
+    "isGlobalStyle": false,
+    "isLocationChangeable": false,
+    "isMonitor": false,
+    "is_hide_map": false,
+    "valuesHide": [],
+    "properties": [
+      {
+        "key": "icon_image",
+        "name": "icon_image",
+        "type": "icon",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "museum"
+      },
+      {
+        "key": "text_field",
+        "name": "label",
+        "type": "text",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "point"
+      },
+      {
+        "key": "fill_color",
+        "name": "fill_color",
+        "type": "color",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "#1E5E96"
+      },
+      {
+        "key": "circle_radius",
+        "name": "circle_radius",
+        "type": "number",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": 5
+      },
+      {
+        "key": "circle_stroke_width",
+        "name": "circle_stroke_width",
+        "type": "number",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": 1
+      },
+      {
+        "key": "circle_stroke_color",
+        "name": "circle_stroke_color",
+        "type": "color",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "#ffffff"
+      },
+      {
+        "key": "is_using_icon",
+        "name": "Use icon",
+        "type": "checkbox",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": false
+      },
+      {
+        "key": "is_using_label",
+        "name": "Use label",
+        "type": "checkbox",
+        "array_templates": [],
+        "isHighlight": false,
+        "date": 1667190296332,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": false
+      }
+    ],
+    "fields": [
+      {
+        "key": "icon_image",
+        "name": "icon_image",
+        "type": "icon",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "museum",
+        "_id": "635f4e78c422ce68cf516fe8",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "key": "text_field",
+        "name": "label",
+        "type": "text",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "point",
+        "_id": "635f4e78c422ce68cf516fe9",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "key": "fill_color",
+        "name": "fill_color",
+        "type": "color",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "#1E5E96",
+        "_id": "635f4e78c422ce68cf516fea",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "key": "circle_radius",
+        "name": "circle_radius",
+        "type": "number",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "5",
+        "_id": "635f4e78c422ce68cf516feb",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "key": "circle_stroke_width",
+        "name": "circle_stroke_width",
+        "type": "number",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "1",
+        "_id": "635f4e78c422ce68cf516fec",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "key": "circle_stroke_color",
+        "name": "circle_stroke_color",
+        "type": "color",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "#ffffff",
+        "_id": "635f4e78c422ce68cf516fed",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "key": "is_using_icon",
+        "name": "Use icon",
+        "type": "checkbox",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "false",
+        "_id": "635f4e78c422ce68cf516fee",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "key": "is_using_label",
+        "name": "Use label",
+        "type": "checkbox",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": true,
+        "isStyle": true,
+        "defaultValue": "false",
+        "_id": "635f4e78c422ce68cf516fef",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "uuid": "9b3c3c71-8028-4145-b682-6d3ac3a46571",
+        "key": "status",
+        "name": "status",
+        "type": "text",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": false,
+        "_id": "635f4e78c422ce68cf516ff0",
+        "term": [],
+        "digit_term": []
+      },
+      {
+        "uuid": "95ba6c38-0bd4-4bbb-8cc3-8b3471f11ec7",
+        "key": "temen",
+        "name": "temen",
+        "type": "text",
+        "array_templates": [],
+        "isHighlight": false,
+        "isHide": false,
+        "_id": "635f4e78c422ce68cf516ff1",
+        "term": [],
+        "digit_term": []
+      }
+    ],
+    "domain_list": [
+      {
+        "domain": "geo.mapid.io",
+        "_id": "635f4e78c422ce68cf516ff2"
+      }
+    ],
+    "status": "upload",
+    "storage_key": "",
+    "valueStyleList": [],
+    "picture_url_square": [],
+    "geo_project_attach": [],
+    "comments": [],
+    "__v": 0,
+    "link": "635f4e78c422ce68cf516fe7",
+    "filtered_features": [
+      {
+        "geometry": {
+          "coordinates": [106.88054703622436, -6.1941838126438995],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "f8d9b557-6304-4a1f-8763-31efbd784655",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#b0e062",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "swasta",
+          "temen": 100
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf517018"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.86203108936701, -6.306976801168545],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "b1e99e58-121a-490b-9063-5980ce423464",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#29819b",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "swasta",
+          "temen": 150
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf517019"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.85870539159856, -6.297773869147676],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "b142134b-35b7-4dfa-8c4b-6e5f0cf4febc",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#f427c8",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "negeri",
+          "temen": 200
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf51701a"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.88253155041843, -6.337450502726924],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "3c76cc5f-ef62-494e-8098-6147cb4aed5d",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#ed8f6a",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "swasta",
+          "temen": 180
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf51701b"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.82541188824672, -6.3623164539844055],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "7612756e-0c9d-408a-af96-69b87d01dcdd",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#9b87f2",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "negeri",
+          "temen": 250
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf51701c"
+      }
+    ],
+    "viewStatus": true
+  },
+  "folder": "",
+  "status": "upload",
+  "_id": "635f4e78c422ce68cf517001",
+  "type_new": "circle",
+  "geojson": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [106.88054703622436, -6.1941838126438995],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "f8d9b557-6304-4a1f-8763-31efbd784655",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#b0e062",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "swasta",
+          "temen": 100
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf517018"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.86203108936701, -6.306976801168545],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "b1e99e58-121a-490b-9063-5980ce423464",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#29819b",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "swasta",
+          "temen": 150
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf517019"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.85870539159856, -6.297773869147676],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "b142134b-35b7-4dfa-8c4b-6e5f0cf4febc",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#f427c8",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "negeri",
+          "temen": 200
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf51701a"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.88253155041843, -6.337450502726924],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "3c76cc5f-ef62-494e-8098-6147cb4aed5d",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#ed8f6a",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "swasta",
+          "temen": 180
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf51701b"
+      },
+      {
+        "geometry": {
+          "coordinates": [106.82541188824672, -6.3623164539844055],
+          "type": "Point"
+        },
+        "formStatus": {
+          "status": "pending",
+          "message": ""
+        },
+        "key": "7612756e-0c9d-408a-af96-69b87d01dcdd",
+        "type": "Feature",
+        "properties": {
+          "icon_image": "museum",
+          "text_field": "icon_image",
+          "circle_color": "#9b87f2",
+          "circle_radius": 5,
+          "circle_stroke_width": 1,
+          "circle_stroke_color": "#ffffff",
+          "status": "negeri",
+          "temen": 250
+        },
+        "date_in": "2022-10-07T03:43:49.872Z",
+        "_id": "635f4e78c422ce68cf51701c"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "paint": {
+    "circle-color": ["get", "circle_color"],
+    "circle-radius": 10,
+    "circle-stroke-width": 5,
+    "circle-stroke-color": "#fff"
+  }
+}
